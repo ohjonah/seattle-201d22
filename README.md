@@ -1,4 +1,4 @@
-# Code 201: Foundations of Software Development hello
+# Code 201: Foundations of Software Development
 
 [![](https://img.shields.io/badge/YouTube-201d22-red.svg)](https://www.youtube.com/playlist?list=PLM1HIxGbu_izqTJbCEsWGF7-yd-uoDZRZ)
 [![](https://img.shields.io/badge/canvas-201d22-blue.svg)](https://canvas.instructure.com/courses/1152889)
