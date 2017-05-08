@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Tab Title</title>
+  </head>
+  <body>
+    <h1>Welcome to Code 201!</h1>
+  </body>
+
+  <script>
+    var user = prompt('What is your name?');
+    console.log('user:' + user);
+
+    alert('hi there, ' + user + ', I\'m going to ask you a question');
+
+    var answer = prompt(user + ', this is a yes/no question.  Please answer with Y or N.  Do you love to code?');
+
+    console.log('users answer:' + answer);
+
+    if (answer === 'N') {
+      alert('nice try - i love to code');
+    } else {
+      alert('yeaaaaah, i love to code!!!!')
+    }
+  </script>
+</html>
