@@ -1,6 +1,6 @@
 # Code 201: Foundations of Software Development
 
-[![](https://img.shields.io/badge/YouTube-201d22-red.svg)](https://www.youtube.com/playlist?list=PLM1HIxGbu_izqTJbCEsWGF7-yd-uoDZRZ)
+[![](https://img.shields.io/badge/YouTube-201d22-red.svg)](https://www.youtube.com/watch?v=8OxF74c3PVg&list=PLVngfM2hsbi9HhG03_5P_4K672hxYINqu)
 [![](https://img.shields.io/badge/canvas-201d22-blue.svg)](https://canvas.instructure.com/courses/1152889)
 [![](https://img.shields.io/badge/slack-201d22-orange.svg)](https://codefellows.slack.com/messages/C504DFG3B/)
 
