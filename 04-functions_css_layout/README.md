@@ -9,5 +9,5 @@ As a result of completing Day 4 of Code 201, students will:
 - Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the daily code assignment.
 
 # Codepen Demos:
-- Absolute Positioning Demo: ![](http://codepen.io/briannations/pen/eWMMoq)
-- Float Demo: ![](http://codepen.io/briannations/pen/XKjJVB)
+- [Absolute Positioning Demo:](http://codepen.io/briannations/pen/eWMMoq)
+- [Float Demo:](http://codepen.io/briannations/pen/XKjJVB)
