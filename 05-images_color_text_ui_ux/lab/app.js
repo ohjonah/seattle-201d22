@@ -14,7 +14,7 @@ function sum(a,b){ //eslint-disable-line
   return [mySum, myMsg];
 }
 
-sum();
+sum(4, 7);
 
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
